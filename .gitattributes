@@ -1,0 +1,2 @@
+climate_care_consulting/Emissions[[:space:]]Energy[[:space:]]Use[[:space:]]Reporting[[:space:]]Dataverse.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
