@@ -45,6 +45,12 @@ This repository contains datasets for climate and health research, focusing on t
 - `system_climate_topics.csv` - Climate research topics taxonomy
 - **Purpose**: Systematic review and meta-analysis of climate-health relationships
 
+### FortyGuard (`fortyguard/`)
+**Source**: FortyGuard
+**Description**: Heat data in interactive dashboards as well as downloadable JSON 
+- `FortyGuard_HealthinClimate_Hackathon_Instructions.pdf` - Instructions for accessing and downloading FortyGuard data
+- **Purpose**: Accurate urban heat data
+
 ## Data Processing Notes
 - Large files (>100MB) are stored using Git LFS
 - CSV files contain cleaned and processed data ready for analysis
@@ -64,9 +70,11 @@ This collection supports research in:
 - **XLSX**: Excel workbooks with multiple data views
 - **IPYNB**: Jupyter notebooks for data processing and analysis
 - **DOCX**: Documentation and methodology descriptions
+- **PDF**: Documentation and download instructions
 
 ## Data Quality and Methodology
 - Apollo Hospitals data is synthetically generated following clinical data patterns
 - Milliman data includes validated air quality and temperature measurements
 - System data represents aggregated research findings from multiple sources
 - Practice Greenhealth data is self-reported by healthcare facilities
+- FortyGuard data goes through a rigorous system of quality processing techniques 
