@@ -51,6 +51,11 @@ This repository contains datasets for climate and health research, focusing on t
 - `FortyGuard_HealthinClimate_Hackathon_Instructions.pdf` - Instructions for accessing and downloading FortyGuard data
 - **Purpose**: Accurate urban heat data
 
+### McKesson (`mckesson/`)
+**Source**: McKesson
+**Description**: Variety of different data sets including climate hazard events and resilience and GHG emissions to shift from spend based to emissions based tracking 
+- **Purpose**: Emissions tracking
+
 ## Data Processing Notes
 - Large files (>100MB) are stored using Git LFS
 - CSV files contain cleaned and processed data ready for analysis
